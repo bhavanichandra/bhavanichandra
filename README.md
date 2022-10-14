@@ -13,7 +13,7 @@ I've been in the tech industry since 2018, and I'm very excited to work on vario
 * 🤝  I'm open to collaborating on Open Source Projects, Integration projects
 * ⚡  I like anime, movies, meetups, hackathons
 
-<a href="https://app.daily.dev/bhavanichandra"><img src="https://github.com/bhavanichandra/bhavanichandra/blob/master/devcard.svg" width="400" alt="Bhavani Chandra's Dev Card"/></a>
+<a href="https://app.daily.dev/bhavanichandra"><img src="https://github.com/bhavanichandra/bhavanichandra/blob/main/devcard.svg" width="400" alt="Bhavani Chandra's Dev Card"/></a>
 
 <a href="https://www.twitter.com/bhavanichandra1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bhavanichandra1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
