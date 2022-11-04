@@ -50,7 +50,7 @@ src="https://img.shields.io/twitter/follow/bhavanichandra1?logo=twitter&style=fo
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [MuleSoft Flex Gateway](https://blog.themuler.com/my-process-to-start-new-project-ideas)
+- [MuleSoft Flex Gateway](https://blog.themuler.com/mulesoft-flex-gateway)
 - [MuleSoft Database Connector](https://blog.themuler.com/mulesoft-database-connector)
 - [API Led Connectivity](https://blog.themuler.com/api-led-connectivity)
 - [Brief Introduction to MuleSoft](https://blog.themuler.com/brief-introduction-to-mulesoft)
