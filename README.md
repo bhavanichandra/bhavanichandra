@@ -50,10 +50,10 @@ src="https://img.shields.io/twitter/follow/bhavanichandra1?logo=twitter&style=fo
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Develop a Personalized Context Menu with Angular: How-To](https://blog.themuler.com/develop-a-personalized-context-menu-with-angular-how-to)
 - [MuleSoft Flex Gateway](https://blog.themuler.com/mulesoft-flex-gateway)
 - [MuleSoft Database Connector](https://blog.themuler.com/mulesoft-database-connector)
 - [API Led Connectivity](https://blog.themuler.com/api-led-connectivity)
-- [Brief Introduction to MuleSoft](https://blog.themuler.com/brief-introduction-to-mulesoft)
 <!-- BLOG-POST-LIST:END -->
 
 ### Support Me
