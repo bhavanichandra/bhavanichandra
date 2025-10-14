@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '0 9 * * *'
+        - cron: '0 0 * * 2,4,6,0'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://blogs.bhavanichandra.com/rss.xml"
+                feed_list: "https://bhavanichandra.hashnode.dev/rss.xml"
